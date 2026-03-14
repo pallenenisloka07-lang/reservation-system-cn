@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+server.crt
+server.key
+booking_journal.jsonl
+state_snapshot.json
